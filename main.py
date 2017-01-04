@@ -67,7 +67,7 @@ def extractIndividual():
     			except:
     				print "Assignment that failed to be extracted:  " + i
     		else:
-    			print "Assignment that failed to be extracted:  " + i
+    			print "Assignment Name failed to be extracted:  " + i
 
 
 '''
